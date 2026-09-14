@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.rsuser
+*.userosscache
+
+# Compilación y despliegue
+bin/
+obj/
+*.log
+*.binlog
+
+# Archivos locales de SQL Server
+*.mdf
+*.ldf
+*.ndf
+
+# Archivos temporales del sistema
+Thumbs.db
+Desktop.ini
